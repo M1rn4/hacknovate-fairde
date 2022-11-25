@@ -1,4 +1,4 @@
-# FEVM React App
+# FairDe React App
 
 In order to execute the App run:
 
