@@ -1,2 +1,13 @@
-# hacknovate-fairde
-We are a protocol that allows fairer decisions to be made in disputes involving organizations, companies, DAOs through anonymous votes and protecting the identity of the victims.
+# Sample Hardhat Project
+
+This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+
+Try running some of the following tasks:
+
+```shell
+npx hardhat help
+npx hardhat test
+REPORT_GAS=true npx hardhat test
+npx hardhat node
+npx hardhat run scripts/deploy.js
+```
