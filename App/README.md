@@ -1,2 +1,16 @@
-# hacknovate-fairde
-We are a protocol that allows fairer decisions to be made in disputes involving organizations, companies, DAOs through anonymous votes and protecting the identity of the victims.
+# FEVM React App
+
+In order to execute the App run:
+
+```bash
+npm install
+```
+
+And:
+
+```bash
+npm start
+```
+
+
+
